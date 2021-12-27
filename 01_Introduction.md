@@ -34,7 +34,8 @@ in the main() function.
 The curly braces are used in pairs to indicate where a block of code begins and ends. They can be used in a lot of ways, but
 in this case they indicate where the function begins and ends.
 
-```puts("Hello, World");
+```
+puts("Hello, World");
 ```
 
 This line calls the puts() function to output text to standard output(the screen, by default), followed by a newline.
